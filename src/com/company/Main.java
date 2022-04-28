@@ -4,9 +4,9 @@ import java.io.*;
 import java.util.Scanner;
 
 /*
- * COSC 2P03 Advanced Data Structures Assignment 2
+ * Advanced Data Structures Assignment 2
  *
- * @author Ameen Khawaja - Student ID#: 6935688 - email: ak19nu@brocku.ca
+ * @author Ameen Khawaja 
  *
  * @version 2.0 2021/10/18 @ 10:00 PM
  */
